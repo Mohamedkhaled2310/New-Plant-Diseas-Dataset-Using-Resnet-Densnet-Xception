@@ -566,3 +566,11 @@ Xception is divided into three main parts:
 | **Accuracy** | **0.98** | **0.98** | **0.98** | **6976** |
 | **Macro Avg** | **0.98** | **0.98** | **0.98** | **6976** |
 | **Weighted Avg** | **0.98** | **0.98** | **0.98** | **6976** |
+
+
+
+team workd on this project :
+youssef moustafa abdelaty
+mohamed shaaban mohamed
+mohamed khaled hassan
+mahmoud waleed mahmoud
